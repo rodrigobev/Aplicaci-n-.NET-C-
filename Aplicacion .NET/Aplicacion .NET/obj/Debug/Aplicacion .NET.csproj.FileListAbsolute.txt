@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\bin\Debug\Aplicacion.NET.exe.config
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\bin\Debug\Aplicacion.NET.exe
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\bin\Debug\Aplicacion.NET.pdb
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion .NET.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion.NET.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion .NET.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion .NET.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion.NET.exe
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion.NET.pdb
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\bin\Debug\Calculos.dll
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\bin\Debug\Calculos.pdb
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion .NET.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\Prueba Vacante\Aplicacion .NET\Aplicacion .NET\obj\Debug\Aplicacion.NET.Form.resources
